@@ -1,0 +1,15 @@
+.zero-padding{
+  margin: 0;
+  padding: 0;
+
+}
+
+#logo{
+  width: 60%;
+  height: 100%;
+}
+
+#lay{
+ background-image: url("images/bimages.jpg");
+background-color: #cccccc;
+}
